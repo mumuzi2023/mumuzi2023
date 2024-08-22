@@ -10,10 +10,9 @@
 
 ### $\color{blue} {\text{Research Experiences}}$
 
-🌱**Visiting Student Scholar, [Johns Hopkins University(JHU)](https://www.jhu.edu/), [Whiting School of Engineering](https://engineering.jhu.edu/), US** (2024.3 - 2024.7): 
+🌱**Visiting Student Scholar, [Johns Hopkins University(JHU)](https://www.jhu.edu/), [Whiting School of Engineering](https://engineering.jhu.edu/), US** (2024.3 - 2024.8): 
 
 Project supervisor: Assistant Professor [Renjie Zhao](https://renjiezhao.github.io/) 
-
 
 ### $\color{blue} {\text{Skills}}$
 
