@@ -70,6 +70,6 @@ Here are some ideas to get you started:
 -->
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumuzi2023&layout=compact&hide=VHDL,Verilog,SystemVerilog)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mumuzi2023&layout=compact&hide=VHDL,Verilog,SystemVerilog,Shell,Tcl)
 
 ![](https://komarev.com/ghpvc/?username=mumuzi2023&color=green)
