@@ -8,24 +8,22 @@
 
 🕹️**Combinatorial Optimization**: smart sensing and mobile computing, Integrated Sensing and Communication
 
-### $\color{blue} {\text{Work Experiences}}$
+### $\color{blue} {\text{Research Experiences}}$
 
-🌱**Research intern, [Jo](https://www.a-star.edu.sg/cfar), [Agency for Science, Technology and Research (A*STAR)](https://www.a-star.edu.sg/), Singapore** (2024.3 - 2024.7): 
+🌱**Visiting Student Scholar, [Johns Hopkins University(JHU)](https://www.jhu.edu/), [Whiting School of Engineering](https://engineering.jhu.edu/), US** (2024.3 - 2024.7): 
 
-Occupation: Research Officer (Statistical)
-
-Project supervisor: Senior Scientist [Liu Shengcai](https://senshinel.github.io/) 
+Project supervisor: Assistant Professor [Renjie Zhao](https://renjiezhao.github.io/) 
 
 
 ### $\color{blue} {\text{Skills}}$
 
-Programming: Python, C/C++, Java, LATEX, CPLEX.
+Programming: Python, C/C++, Java, Matlab.
 
-Languages: Chinese, native speaker.
+Languages: Chinese, native speakerl; English, Tofel 91.
 
 ### $\color{blue} {\text{Contact information}}$
 
-📫Contact me: zhengzb2021@mail.sustech.edu.cn
+📫Contact me: gaozr2021@mail.sustech.edu.cn
 
 <!--
 **0SliverBullet/0SliverBullet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
