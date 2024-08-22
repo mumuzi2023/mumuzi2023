@@ -18,7 +18,7 @@ Project supervisor: Assistant Professor [Renjie Zhao](https://renjiezhao.github.
 
 Programming: Python, C/C++, Java, Matlab.
 
-Languages: Chinese, native speakerl; English, Tofel 91.
+Languages: Chinese, native speaker; English, Tofel 91.
 
 ### $\color{blue} {\text{Contact information}}$
 
