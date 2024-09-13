@@ -6,7 +6,7 @@
 
 ### $\color{blue} {\text{Recent Research Interests}}$ 
 
-🕹️Smart sensing and mobile computing, Integrated Sensing and Communication
+🕹️**Smart Sensing and Mobile Computing, Integrated Sensing and Communication**
 
 ### $\color{blue} {\text{Research Experiences}}$
 
